@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+body {
+    background-color:#0091bd;
+    background: linear-gradient(90deg, #0091bd, #002b49);
+    text-align: center;
+     
+  }
+  #text-content{
+    vertical-align: middle;
+    line-height: 20px; 
+  }
+  h1{
+    color: white;
+    font-family:'Lato';
+   
+  }
+  h2{
+    color: white;
+    font-family:'Lato';
+    font-weight: 300;
+  
+  }
